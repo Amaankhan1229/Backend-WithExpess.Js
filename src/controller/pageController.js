@@ -7,6 +7,7 @@ export const indexPageController = (req,resp)=>{
 
 export const loginPageController = (req,resp)=>{
     resp.render('login')
+<<<<<<< HEAD
 }
 
 export const signUpPageController = (req,resp)=>{
@@ -24,4 +25,6 @@ export const errorController = (req,resp)=>{
     resp.render('errorPage',{
         errorMessage:message
     })
+=======
+>>>>>>> 8a578585069878f529a4bb7e70820d864c8dee28
 }

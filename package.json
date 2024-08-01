@@ -16,10 +16,14 @@
     "ejs": "^3.1.10",
     "express": "^4.19.2",
     "jsonwebtoken": "^9.0.2",
+<<<<<<< HEAD
     "mongoose": "^8.5.2",
     "nodemon": "^3.1.4",
     "uuid": "^10.0.0",
     "zod": "^3.23.8"
+=======
+    "nodemon": "^3.1.4"
+>>>>>>> 8a578585069878f529a4bb7e70820d864c8dee28
   },
   "devDependencies": {
     "@types/ejs": "^3.1.5",
